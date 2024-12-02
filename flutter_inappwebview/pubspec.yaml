@@ -22,7 +22,7 @@ dependencies:
   flutter_inappwebview_android: ^1.0.12
   flutter_inappwebview_ios: 
     git:
-      branch: v6.0.0
+      ref: v6.0.0
       url: git@github.com:zzzlazy/flutter_inappwebview.git
       path: flutter_inappwebview_ios
   flutter_inappwebview_macos: ^1.0.11
